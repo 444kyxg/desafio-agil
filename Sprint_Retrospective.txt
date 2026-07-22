@@ -1,0 +1,13 @@
+==================================================
+               SPRINT RETROSPECTIVE
+==================================================
+
+1. O que funcionou bem?
+   - As alterações nos arquivos index.html e contato.html foram realizadas conforme as especificações do Sprint Planning.
+   - O tempo estimado foi suficiente para concluir a implementação.
+
+2. O que não funcionou tão bem?
+   - A edição direta de tags HTML (<font>) pode ser melhorada no futuro usando arquivos CSS centralizados.
+
+3. Sugestões de melhoria:
+   - Padronizar o estilo visual do projeto utilizando CSS na próxima Sprint.
