@@ -1,0 +1,13 @@
+==================================================
+                 SPRINT BACKLOG
+==================================================
+
+Histórias de Usuário Selecionadas:
+
+- História ID 1: Alterar a cor do texto do nome dos veículos para azul no arquivo index.html.
+  Esforço Estimado: 2 horas / 2 Story Points
+
+- História ID 3: Atualizar as descrições dos links de navegação no arquivo contato.html.
+  Esforço Estimado: 2 horas / 2 Story Points
+
+Esforço Total Estimado: 4 horas / 4 Story Points
